@@ -22,14 +22,12 @@ For more information about the Reference Software Platform project please watch 
 Choose Consumer Edition or Enterprise Edition to start setting up your instruction set. Download, build, and install your preferred Reference Platform operating system and/or components. Pre-built images and "build from source" options are available.
 
 #### Reference Software - Consumer Edition
-- [HiKey](ConsumerEdition/HiKey/README.md)
 - [DragonBoard™ 410c](ConsumerEdition/DragonBoard-410c/README.md)
 
 #### Reference Software - Enterprise Edition
 - [D02](EnterpriseEdition/D02/README.md)
 - [D03](EnterpriseEdition/D03/README.md)
 - [AMD Overdrive](EnterpriseEdition/Overdrive/README.md)
-- [LeMaker Cello](EnterpriseEdition/Cello/README.md)
 - [X-Gene Mustang](EnterpriseEdition/X-Gene-Mustang/README.md)
 - [HP ProLiant m400](EnterpriseEdition/HP-ProLiant-m400/README.md)
 - [Cavium Thunder X](EnterpriseEdition/ThunderX/README.md)
