@@ -17,8 +17,6 @@ For more information about the Reference Software Platform project please watch 
 
 ***
 
-## QuickStart
-
 #### Reference Software
 
 - [Official](RPOfficial/README.md)
