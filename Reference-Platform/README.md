@@ -12,7 +12,7 @@ For more information about the Reference Software Platform project please watch 
   <a href="#">[RPB 16.06 Highlights](Highlights.md)</a> |
   <a href="#">[Known Issues](Known-Issues.md)</a> |
   <a href="#">[Kernel Roadmap](Kernel-Roadmap.md)</a> |
-  <a href="#">RPB Status ([EE](RPB-future-status.md) / [CE](../link))</a>
+  <a>RPB Status ([EE](RPB-future-status.md) / [CE](../link))</a>
   <br>
 
 ***
