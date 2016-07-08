@@ -31,20 +31,19 @@
 			
 		</tr>
 		<tr>
-			<td> DragonBoard™ 410c </td>
-			<td>Qualcomm<br>Snapdragon 410</td>
+			<td> 1 </td>
+			<td> 2 </td>
 		</tr>
 		<tr>
-			<td> HiKey </td>
-			<td>HiSilicon<br>Kirin 620</td>
+			<td> 1 </td>
+			<td> 2 </td>
 		</tr>
-		<tr>
-			<td> Bubblegum-96 </td>
-			<td>Actions<br>s900</td>
+			<tr> 1 </td>
+			<td> 2 </td>
 		</tr>
 		<tr>
 			
-			<td colspan="9">&nbsp;</td>
+			<td colspan="3">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
