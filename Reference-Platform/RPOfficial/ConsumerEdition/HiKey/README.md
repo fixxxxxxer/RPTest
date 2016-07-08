@@ -10,12 +10,48 @@
 
 #### HiKey
 
-
+<table border="3">
+	<thead>
+		<tr>
+			<td></td>
+			<td><b></td>
+			<td colspan="3"><b>CPU</td>
+			<td><b></td>
+			<td colspan="4"><b>RAM</td>
+		</tr>
+	</thead>
+	
+	<tbody>
+		<tr>
+			<td><img src="http://i.imgur.com/mKjYKTH.png" data-canonical-src="http://i.imgur.com/mKjYKTH.png" width="135" height="40" /></td>
+			<td><a href="https://en.wikipedia.org/wiki/System_on_a_chip"><b>SoC</a></td>
+			<td><a href="https://en.wikipedia.org/wiki/ARM_architecture"><b>Architecture&shy;</a></td>
+		</tr>
+		<tr>
+			
+		</tr>
+		<tr>
+			<td> DragonBoard™ 410c </td>
+			<td>Qualcomm<br>Snapdragon 410</td>
+		</tr>
+		<tr>
+			<td> HiKey </td>
+			<td>HiSilicon<br>Kirin 620</td>
+		</tr>
+		<tr>
+			<td> Bubblegum-96 </td>
+			<td>Actions<br>s900</td>
+		</tr>
+		<tr>
+			
+			<td colspan="9">&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
 
 |   **CE Debian RPB - 16.06**   |
 |:-----------------------------:|
 |   Install Instructions ([SD Card]() / [Fastboot]())    |  
-|1 | 2| 3 |
 |  [Build from Source](BFSDebianRPB.md)        | 
 |       [Known issues](../../../Known-Issues.md)        |  
 |        [Test Report](http://builds.96boards.org/releases/reference-platform/debian/hikey/16.06/16.06-CE-Debian-RPB-Test-Report.pdf) |  
