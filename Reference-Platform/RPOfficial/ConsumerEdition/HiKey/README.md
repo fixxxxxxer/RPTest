@@ -10,50 +10,14 @@
 
 #### HiKey
 
-<table border="3">
-	<thead>
-		<tr>
-			<td colspan="3"><b>1</td>
-			<td colspan="3"><b>2</td>
-			<td colspan="3"><b>3</td>
-			<td colspan="3"><b>4</td>
-			<td colspan="3"><b>5</td>
-		</tr>
-	</thead>
-	
-	<tbody>
-		<tr>
-			<td> 1 </td>
-			<td> 2 </td>
-			<td> 3 </td>
-		</tr>
-		<tr>
-			
-		</tr>
-		<tr>
-			<td> 1 </td>
-			<td> 2 </td>
-		</tr>
-		<tr>
-			<td> 1 </td>
-			<td> 2 </td>
-		</tr>
-			<tr> 1 </td>
-			<td> 2 </td>
-		</tr>
-		<tr>
-			
-			<td colspan="1">&nbsp;</td>
-		</tr>
-	</tbody>
-</table>
 
 |   **CE Debian RPB - 16.06**   |
 |:-----------------------------:|
-|   Install Instructions ([SD Card]() / [Fastboot]())    |  
+|   [Install Instructions (SD Card)](InstallDebianRPB.md)     |  
+|   [Install Instructions (Fastboot)](InstallDebianRPB.md)    |  
 |  [Build from Source](BFSDebianRPB.md)        | 
 |       [Known issues](../../../Known-Issues.md)        |  
-|        [Test Report](http://builds.96boards.org/releases/reference-platform/debian/hikey/16.06/16.06-CE-Debian-RPB-Test-Report.pdf) |  
+|        [Test Report](http://builds.96boards.org/releases/reference-platform/debian/hikey/16.06/16.06-CE-Debian-RPB-Test-Report.pdf)
 
 
 |    **CE AOSP RPB - 16.06**  |
