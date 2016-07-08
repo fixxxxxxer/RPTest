@@ -13,11 +13,11 @@
 <table border="3">
 	<thead>
 		<tr>
-			<td></td>
-			<td><b></td>
 			<td colspan="3"><b>CPU</td>
-			<td><b></td>
-			<td colspan="4"><b>RAM</td>
+			<td colspan="3"><b>CPU</td>
+			<td colspan="3"><b>CPU</td>
+			<td colspan="3"><b>CPU</td>
+			<td colspan="3"><b>CPU</td>
 		</tr>
 	</thead>
 	
