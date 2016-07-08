@@ -14,7 +14,7 @@
 
 |   **CE Debian RPB - 16.06**   |
 |:-----------------------------:|
-|   [Install Instructions](InstallDebianRPB.md)    |  
+|   Install Instructions ([SD Card]() / [Fastboot]())    |  
 |  [Build from Source](BFSDebianRPB.md)        | 
 |       [Known issues](../../../Known-Issues.md)        |  
 |        [Test Report](http://builds.96boards.org/releases/reference-platform/debian/hikey/16.06/16.06-CE-Debian-RPB-Test-Report.pdf) |  
