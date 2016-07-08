@@ -43,7 +43,7 @@
 		</tr>
 		<tr>
 			
-			<td colspan="3">&nbsp;</td>
+			<td colspan="1">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
