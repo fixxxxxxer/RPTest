@@ -12,14 +12,22 @@
 
 
 
-|   **CE Debian RPB - 16.06**   |    **CE AOSP RPB - 16.03**  |
-|:-----------------------------:|:---------------------------:|
-|   [Install Instructions](InstallDebianRPB-16.06.md)    |   [Install Instructions](InstallAOSPRPB-16.03.md)  |
-|  [Build from Source](BFSDebianRPB-16.06.md)        |    [Build from Source](BFSAOSPRPB-16.03.md)    |
-|       [Known issues](../../Known-Issues.md)        |      [Known issues](../../Known-Issues.md)       |
-|        Test Report - TBD        |       [Test Report](http://builds.96boards.org/releases/reference-platform/aosp/hikey/16.03/CE-AOSP-RPB-16.03-HiKey-TestReport.pdf)       |
+|   **CE Debian RPB - 16.06**   |
+|:-----------------------------:|
+|   [Install Instructions](InstallDebianRPB.md)    |  
+|  [Build from Source](BFSDebianRPB.md)        | 
+|       [Known issues](../../../Known-Issues.md)        |  
+|        [Test Report](http://builds.96boards.org/releases/reference-platform/debian/hikey/16.06/16.06-CE-Debian-RPB-Test-Report.pdf) |  
+
+
+|    **CE AOSP RPB - 16.06**  |
+|:---------------------------:|
+|  [Install Instructions](https://source.android.com/source/devices.html) |
+|      [Known issues](../../../Known-Issues.md)       |
+
 
 
 ***
 
-Access **bootloader** build from source instructions [here](BuildSourceBL.md) 
+- Access **bootloader** build from source instructions [here](BuildSourceBL.md) 
+- Access **OpenEmbedded** build from source instructions [here](../../../CECommon/OEYocto.md)
