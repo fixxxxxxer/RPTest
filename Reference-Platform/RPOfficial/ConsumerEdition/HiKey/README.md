@@ -13,19 +13,19 @@
 <table border="3">
 	<thead>
 		<tr>
-			<td colspan="3"><b>CPU</td>
-			<td colspan="3"><b>CPU</td>
-			<td colspan="3"><b>CPU</td>
-			<td colspan="3"><b>CPU</td>
-			<td colspan="3"><b>CPU</td>
+			<td colspan="3"><b>1</td>
+			<td colspan="3"><b>2</td>
+			<td colspan="3"><b>3</td>
+			<td colspan="3"><b>4</td>
+			<td colspan="3"><b>5</td>
 		</tr>
 	</thead>
 	
 	<tbody>
 		<tr>
-			<td><img src="http://i.imgur.com/mKjYKTH.png" data-canonical-src="http://i.imgur.com/mKjYKTH.png" width="135" height="40" /></td>
-			<td><a href="https://en.wikipedia.org/wiki/System_on_a_chip"><b>SoC</a></td>
-			<td><a href="https://en.wikipedia.org/wiki/ARM_architecture"><b>Architecture&shy;</a></td>
+			<td> 1 </td>
+			<td> 2 </td>
+			<td> 3 </td>
 		</tr>
 		<tr>
 			
