@@ -10,10 +10,10 @@ Select your Consumer Edition 96Boards device to access all product related resou
 
 | 96Boards  | About | Options | 
 |:----:|:----|:----|
-| <img src="http://i.imgur.com/uKfxuu5.jpg" data-canonical-src="http://i.imgur.com/uKfxuu5.jpg" width="250" height="160" /><br> **HiKey** | Board based on HiSilicon Kirin 6220 processor  | [Documentation]()<br>[Hardware Manual]()<br>[]()  |
-| <img src="http://i.imgur.com/4a5GXRd.png" data-canonical-src="http://i.imgur.com/4a5GXRd.png" width="250" height="160" /><br> **DragonBoard 410c** | Board based on Qualcomm® Snapdragon™ 410 processor  | [Documentation]()<br>[Hardware Manual]()|
-| <img src="http://i.imgur.com/u08Wb6U.png" data-canonical-src="http://i.imgur.com/u08Wb6U.png" width="250" height="160" /><br>**Bubblegum-96** | Board based on Actions Semi S900 Processor  | [Documentation]()<br>[Hardware Manual]() |
-<img src="http://i.imgur.com/ndacN8g.png" data-canonical-src="http://i.imgur.com/ndacN8g.png" width="250" height="160" /><br> **Helio X20** | Board based on Helio X20 Applications Processor  | [Documentation]()<br>[Hardware Manual]() |
+| <img src="http://i.imgur.com/uKfxuu5.jpg" data-canonical-src="http://i.imgur.com/uKfxuu5.jpg" width="125" height="80" /><br> **HiKey** | Board based on HiSilicon Kirin 6220 processor  | [Documentation]()<br>[Hardware Manual]()<br>[]()  |
+| <img src="http://i.imgur.com/4a5GXRd.png" data-canonical-src="http://i.imgur.com/4a5GXRd.png" width="125" height="80" /><br> **DragonBoard 410c** | Board based on Qualcomm® Snapdragon™ 410 processor  | [Documentation]()<br>[Hardware Manual]()|
+| <img src="http://i.imgur.com/u08Wb6U.png" data-canonical-src="http://i.imgur.com/u08Wb6U.png" width="125" height="80" /><br>**Bubblegum-96** | Board based on Actions Semi S900 Processor  | [Documentation]()<br>[Hardware Manual]() |
+<img src="http://i.imgur.com/ndacN8g.png" data-canonical-src="http://i.imgur.com/ndacN8g.png" width="125" height="80" /><br> **Helio X20** | Board based on Helio X20 Applications Processor  | [Documentation]()<br>[Hardware Manual]() |
 
 ## 96Boards CE Extras
 
