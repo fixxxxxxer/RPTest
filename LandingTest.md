@@ -9,15 +9,6 @@ Select your platform for a list supported products and 96Boards specific resourc
 | [**Consumer Edition**](ConsumerEdition/README.md) <br><img src="http://i.imgur.com/QEilCHZ.png" data-canonical-src="http://i.imgur.com/QEilCHZ.png" width="240" height="100" /><br> | [**Enterprise Edition**](EnterpriseEdition/README.md) <br><img src="http://i.imgur.com/DLgo1qU.png" data-canonical-src="http://i.imgur.com/DLgo1qU.png" width="240" height="100" /> | [**Mezzanine**](MezzanineProducts/README.md) <br><img src="http://i.imgur.com/FU8ewZf.png" data-canonical-src="http://i.imgur.com/FU8ewZf.png" width="240" height="100" /> |
 |:---:|:---:|:---:|
 | These small, low-cost, and low-power consumer 96Boards are great for developers, makers, and hobbiests! | These powerful, reliable, ARM based 96Boards boards are ideal for targets for networking and server segments  | Expand on all 96Boards with new interfaces for IoT, industrial control, and other embedded applications. |
-
-
-
-- [Consumer Edition](ConsumerEdition/README.md)
-   - These small, low-cost, and low-power consumer 96Boards are great for developers, makers, and hobbiests!
-- [Enterprise Edition](EnterpriseEdition/README.md)
-   - Enterprise Edition (EE) specification targets the networking and server segments
-- [Mezzanine Products](MezzanineProducts/README.md)
-   - Expand on all 96Boards with new interfaces for IoT, industrial control, and other embedded applications.
    
 ***
 ## Read More
