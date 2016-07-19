@@ -8,13 +8,13 @@ Welcome to the official documentation for Consumer Edition 96Boards, these docum
 
 Select your Consumer Edition 96Boards device to access all product related resources
 
-| **HiKey** <br>[<img src="http://i.imgur.com/uKfxuu5.jpg" data-canonical-src="http://i.imgur.com/uKfxuu5.jpg" width="250" height="160" />](HiKey/README.md)<br> | **DragonBoard 410c** <br>[<img src="http://i.imgur.com/4a5GXRd.png" data-canonical-src="http://i.imgur.com/4a5GXRd.png" width="250" height="160" />](DragonBoard-410/README.md | **BubbleGum-96**<br>[<img src="http://i.imgur.com/u08Wb6U.png" data-canonical-src="http://i.imgur.com/u08Wb6U.png" width="250" height="160" />](Bubblegum-96/README.md) |
+| **HiKey** <br><img src="http://i.imgur.com/uKfxuu5.jpg" data-canonical-src="http://i.imgur.com/uKfxuu5.jpg" width="250" height="160" /><br> | **DragonBoard 410c** <br><img src="http://i.imgur.com/4a5GXRd.png" data-canonical-src="http://i.imgur.com/4a5GXRd.png" width="250" height="160" /> | **BubbleGum-96**<br><img src="http://i.imgur.com/u08Wb6U.png" data-canonical-src="http://i.imgur.com/u08Wb6U.png" width="250" height="160" /> |
 |:---:|:---:|:---:|
-| Board based on HiSilicon Kirin 6220 processor | Board based on Qualcomm® Snapdragon™ 410 processor | Board based on Actions Semi S900 Processor |
+| [Documentation]() | [Documentation]() | [Documentation]() |
 
-| **Helio X20**<br>[<img src="http://i.imgur.com/ndacN8g.png" data-canonical-src="http://i.imgur.com/ndacN8g.png" width="250" height="160" />](HelioX20/README.md) |
+| **Helio X20**<br><img src="http://i.imgur.com/ndacN8g.png" data-canonical-src="http://i.imgur.com/ndacN8g.png" width="250" height="160" /> |
 |:---:|
-| Board based on Helio X20 Applications Processor |
+| [Documentation]() |
 
 
 
