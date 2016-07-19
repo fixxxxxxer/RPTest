@@ -8,7 +8,7 @@ Welcome to the official documentation for Consumer Edition 96Boards, these docum
 
 Select your Consumer Edition 96Boards device to access all product related resources
 
-| **HiKey**<br><img src="http://i.imgur.com/uKfxuu5.jpg" data-canonical-src="http://i.imgur.com/uKfxuu5.jpg" width="250" height="160" /><br> | DragonBoard 410c <br><img src="http://i.imgur.com/4a5GXRd.png" data-canonical-src="http://i.imgur.com/4a5GXRd.png" width="250" height="160" /> | **BubbleGum-96<br> <img src="http://i.imgur.com/u08Wb6U.png" data-canonical-src="http://i.imgur.com/u08Wb6U.png" width="250" height="160" /> |
+| **HiKey** <br><img src="http://i.imgur.com/uKfxuu5.jpg" data-canonical-src="http://i.imgur.com/uKfxuu5.jpg" width="250" height="160" /><br> | **DragonBoard 410c** <br><img src="http://i.imgur.com/4a5GXRd.png" data-canonical-src="http://i.imgur.com/4a5GXRd.png" width="250" height="160" /> | **BubbleGum-96**<br><img src="http://i.imgur.com/u08Wb6U.png" data-canonical-src="http://i.imgur.com/u08Wb6U.png" width="250" height="160" /> |
 |:---:|:---:|:---:|
 | [Documentation]()<br>[Hardware Manual]() | [Documentation]()<br>[Hardware Manual]() | [Documentation]()<br>[Hardware Manual]() |
 
