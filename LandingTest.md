@@ -11,6 +11,15 @@ Select your platform for a list supported products and 96Boards specific resourc
 | These small, low-cost, and low-power consumer 96Boards are great for developers, makers, and hobbiests! | These powerful, reliable, ARM based 96Boards boards are ideal targets for networking and server segments  | Expand on all 96Boards with new interfaces for IoT, industrial control, and other embedded applications. |
    
 ***
+## Videos
+
+The following categories contain helpful and entertaining videos surrounding 96Boards and Linaro
+
+| [**OpenHours**]()<br> [<img src="http://i.imgur.com/gsLNx4G.png" data-canonical-src="http://i.imgur.com/gsLNx4G.png" width="240" height="100" />]() <br> | [**Connect**]() <br>[<img src="http://i.imgur.com/6BUREYe.png" data-canonical-src="http://i.imgur.com/6BUREYe.png" width="240" height="100" />]() |
+|:---:|:---:|
+| These small, low-cost, and low-power consumer 96Boards are great for developers, makers, and hobbiests! | These powerful, reliable, ARM based 96Boards boards are ideal targets for networking and server segments  | 
+   
+***
 ## Read More
 
 - [Linaro](http://www.linaro.org/about/)
